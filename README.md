@@ -5,7 +5,7 @@ An extreme real-world construction image dataset.
 
 ## Download
 The **ExtCon** sample data can be accessed:
-- at the [TeraBox download link](https://terabox.com/s/1CJpcENRP9mFxa6VQxnGBug).
-- or, at the [Baidu Netdisk download link](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
+- at the [TeraBox](https://terabox.com/s/1CJpcENRP9mFxa6VQxnGBug).
+- or, at the [Baidu Netdisk](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
 
 The whole dataset will soon be made public.
