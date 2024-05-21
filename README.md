@@ -5,7 +5,7 @@ An extreme real-world construction image dataset, labeled with 13 construction m
 
 ## Download
 The **ExtCon** sample data can be accessed:
-- at the [TeraBox](https://terabox.com/s/1CJpcENRP9mFxa6VQxnGBug).
+- at the [TeraBox](https://terabox.com/s/1I7THz2RfGos_XxSLgqI7RQ).
 - or, at the [Baidu Netdisk](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
 
 The whole dataset will soon be made public.
