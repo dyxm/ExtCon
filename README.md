@@ -9,7 +9,7 @@ The **ExtCon** sample data can be accessed:
 - or, at the [Baidu Netdisk](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
 
 ## Citation
-If you find this dataset useful, consider citing it using:
+Please cite our work if you find the dataset useful.
 ```
 @article{DING2024105487,
   title = {Robust object detection in extreme construction conditions},
