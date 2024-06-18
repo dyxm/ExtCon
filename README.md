@@ -8,3 +8,17 @@ The **ExtCon** sample data can be accessed:
 - at the [TeraBox](https://terabox.com/s/1I7THz2RfGos_XxSLgqI7RQ).
 - or, at the [Baidu Netdisk](https://pan.baidu.com/s/14slF01E78bWIAyoUpUPQvQ) using the code: **wszd**
 
+## Citation
+If you find this dataset useful, consider citing it using:
+```
+@article{DING2024105487,
+  title = {Robust object detection in extreme construction conditions},
+  journal = {Automation in Construction},
+  volume = {165},
+  pages = {105487},
+  year = {2024},
+  issn = {0926-5805},
+  doi = {https://doi.org/10.1016/j.autcon.2024.105487},
+  author = {Yuexiong Ding and Ming Zhang and Jia Pan and Jinxing Hu and Xiaowei Luo},
+}
+```
